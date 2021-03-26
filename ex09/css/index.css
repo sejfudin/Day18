@@ -1,0 +1,33 @@
+header {
+    height: 100px;
+}
+
+#branding {
+    display: block;
+    float: left;
+    height: 100px;
+    font-size: 16px;
+    left: 80px;
+}
+
+nav ul {
+    float: right;
+}
+
+nav ul li {
+    float: right;
+    list-style-type: none;
+    text-decoration: none;
+    margin: 10px;
+}
+
+#showcase {
+    position: relative;
+    height: 400px;
+    background-image: url("../img/gigi-logo.png");
+}
+
+.box {
+    display: inline-block;
+    width: 300px;
+}

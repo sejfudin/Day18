@@ -5,7 +5,10 @@ let rockStar = new Map([
     ["singer", "Mick Jagger"]
 ]);
 
-let arr = [...rockStar];
+var arr = [...rockStar];
+
+
+
 
 function newStar(x) {
 
